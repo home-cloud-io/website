@@ -1,0 +1,4 @@
+baseURL = 'https://home-cloud.io/'
+languageCode = 'en-us'
+title = 'Home Cloud'
+theme = 'ananke'
