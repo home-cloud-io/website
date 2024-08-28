@@ -11,10 +11,10 @@ faqItem:
     dataTarget: One
     show: show
     buttons:
+      - text: Private Beta
+        link: mailto:hello@home-cloud.io
       - text: GitHub
         link: https://github.com/home-cloud-io
-      - text: Reach out
-        link: mailto:hello@home-cloud.io
 
   - question: Do I need to be a "techie" to use Home Cloud?
     paragraphs:

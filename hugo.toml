@@ -32,7 +32,7 @@ theme = "apsho"
     url = "/blog"
     weight = 2
 [[menu.sitemap]]
-    name = "Privacy & Policy"
+    name = "Privacy Policy"
     url = "/privacy"
     weight = 3
 [[menu.sitemap]]
@@ -58,7 +58,7 @@ subscribeFormURL = "https://subscribe.home-cloud.io/subscription/form"
 
 # Footer
 footerTitle = "Keep up to date"
-copyright1 = "All right reserved"
+copyright1 = "All rights reserved"
 copyright2 = "Copyright ©  <a href=\"https://steady-bytes.io/\" target=\"_blank\">Steady Bytes </a> {year}"
 
 # Contact
