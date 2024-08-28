@@ -1,0 +1,17 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Finally the Cloud the way it should be
+services:
+  - icon: ti-lock
+    title: Secure
+    description: Your data stays safe and protected in your home. Nobody else can see it or access it without your permission.
+
+  - icon: ti-plug
+    title: Simple
+    description: Home Cloud doesn't require any expertise. If you have power and internet you're ready for Home Cloud!
+
+  - icon: ti-money
+    title: Personal
+    description: After buying your Home Cloud server there are no required subscriptions. You buy it, you own it.
+

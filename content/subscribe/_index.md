@@ -1,0 +1,3 @@
+---
+title: Subscribe for updates
+---

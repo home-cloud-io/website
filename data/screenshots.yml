@@ -1,0 +1,13 @@
+---
+enable: true
+title: An ever expanding App Store
+description: Home Cloud runs a wide-array of free and open-source apps that is always growing. From photos, to music, to ad-blockers almost anything will run on Home Cloud!
+
+images:
+  - url: images/screenshots/slider1.png
+  - url: images/screenshots/slider2.png
+  - url: images/screenshots/slider3.png
+  - url: images/screenshots/slider4.png
+  - url: images/screenshots/slider5.png
+  - url: images/screenshots/slider3.png
+  - url: images/screenshots/immich-rounded.png

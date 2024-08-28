@@ -1,0 +1,34 @@
+---
+enable: true
+title: Frequently asked questions
+description: >
+  Have questions about Home Cloud? We have the answers!
+faqItem:
+  - question: How can I get Home Cloud for myself?
+    paragraphs:
+      - Home Cloud hardware is currently in a private beta. If you are interested in participating please reach out to us!
+      - You can also run Home Cloud right now on your own hardware by checking out our GitHub. Documentation on how to install and run Home Cloud yourself is coming soon!
+    dataTarget: One
+    show: show
+    buttons:
+      - text: GitHub
+        link: https://github.com/home-cloud-io
+      - text: Reach out
+        link: mailto:hello@home-cloud.io
+
+  - question: Do I need to be a "techie" to use Home Cloud?
+    paragraphs:
+      - Anyone can use Home Cloud! We designed the system from the ground up to be simple and intuitive.
+      - When you buy a Home Cloud server all you need to do is plug it in and follow a few short directions to have a fully functional server. After that all you have to do is choose your apps just like you do on your phone!
+    dataTarget: Two
+    show:
+
+  - question: How can I port my app into Home Cloud?
+    paragraphs:
+      - Home Cloud runs a lightweight version of Kubernetes so it is compatible with any app that can be containerized. If you already distribute a Docker image of your app it will run just fine in Home Cloud.
+      - Documentation is coming soon on how to write Home Cloud manifests for new apps but in the meantime you can check out examples in our App Store.
+    dataTarget: Three
+    show:
+    buttons:
+      - text: App Store
+        link: https://github.com/home-cloud-io/store

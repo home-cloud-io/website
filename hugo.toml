@@ -1,4 +1,65 @@
-baseURL = 'https://home-cloud.io/'
-languageCode = 'en-us'
-title = 'Home Cloud'
-theme = 'ananke'
+# MAIN base
+baseURL = "https://home-cloud.io/"
+languageCode = "en-us"
+title = "Home Cloud"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "Features"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "FAQ"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Updates"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Updates"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+# address = ""
+email = "hello@home-cloud.io"
+# phone = ""
+
+# Footer Social
+[params.social]
+github = "https://github.com/home-cloud-io"
+
+[params]
+
+# Header
+logo = "images/site-logo-purple.svg"
+subscribeFormURL = "https://subscribe.home-cloud.io/subscription/form"
+
+# Footer
+footerTitle = "Keep up to date"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://steady-bytes.io/\" target=\"_blank\">Steady Bytes </a> {year}"
+
+# Contact
+email = "hello@home-cloud.io"
