@@ -11,7 +11,7 @@ features:
           Now though, cloud services are expensive, riddled with privacy issues, and constantly getting shutdown or made worse by the big companies who run them.
       - text: >
           It's time for something new.
-          A growing community of engineers and developers have been building free and open-source (this is tech-speak for trustworthy) apps to replace the cloud services sold by Big Tech.
+          A growing community of engineers and developers have been building free and open-source apps to replace the cloud services sold by Big Tech.
           All you need to use these apps is a system that will host them in your own personal "cloud". Home Cloud makes this easy!
     button:
       enabled: true
