@@ -1,15 +1,66 @@
 ---
 enable: true
-title: Ultimate experiences with story, emotion
-image1: images/feature/feature-illustration-one.svg
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
-buttonText: Try It Free
-
-Title2nd: Product start analytics with real problems.
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-image2: images/feature/feature-illustration-two.svg
-checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+features:
+  - name: feature1
+    position: right
+    title: The Cloud? At Home?
+    image: images/feature/industry-cloud.svg
+    paragraphs:
+      - text: >
+          Yes! The Cloud was first sold as the cheap, convenient solution for backing up data, syncing our devices, and running apps from anywhere.
+          Now though, the Cloud services are expensive, riddled with privacy issues, and constantly getting shutdown or made worse by the big companies who run them.
+      - text: >
+          It's time for something different.
+          A growing community of engineers and developers have been building free and open-source (this is tech-speak for trustworthy) apps to replace the cloud services sold by Big Tech.
+          All you need to use these apps is a system that will host them in your own personal "cloud". Home Cloud makes this easy!
+    button:
+      enabled: true
+      text: Keep Reading
+      link: "#feature2"
+  - name: feature2
+    position: left
+    title: The Solution is Simple
+    image: images/feature/home-server.svg
+    paragraphs:
+      - text: >
+          Home Cloud solves the complexity problem of hosting your own services by packaging all you need into one device that is simple and intuitive to use.
+          Plug it in, install your apps and say hello to digital freedom.
+      - text: >
+          What you need to run Home Cloud:
+    checkItems:
+      - text: A power outlet
+      - text: An internet connection
+      - text: A web browser
+  - name: feature3
+    position: right
+    title: Who is Home Cloud for?
+    image: images/feature/questions.svg
+    paragraphs:
+      - text: >
+          Home Cloud is for everyone! If your answer is "yes" to any of these questions, Home Cloud could be the solution you've been waiting for!
+    checkItems:
+      - text: Are you tired of ever-increasing subscription fees for cloud services?
+      - text: Have you run out of space on iCloud or Google Photos?
+      - text: Are you sick of Big Tech using your data to target you with creepy ads?
+      - text: Do you want to finally own the services and apps you use everyday?
+  - name: feature4
+    position: left
+    title: What can Home Cloud do?
+    image: images/feature/apps.svg
+    paragraphs:
+      - text: >
+          Home Cloud runs alternative versions of all the same apps your used to using day in and day out.
+          If you can think of an idea, there's almost certainly a version of it that is compatible with Home Cloud.
+      - text: >
+          Here's some examples of apps that Home Cloud currently runs or will run in the near future:
+    checkItems:
+      - text: Photo and video apps like iCloud and Google Photos
+      - text: Office suite apps like Microsoft Office
+      - text: Music and movie library servers for your personal collections
+      - text: Note-taking apps like OneNote or Google Keep
+      - text: Smart home control apps like Alexa and Google Home
+      - text: And much, much more!
+    button:
+      enabled: true
+      text: App Store
+      link: "#screenshots"
