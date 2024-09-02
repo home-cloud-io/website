@@ -8,9 +8,9 @@ features:
     paragraphs:
       - text: >
           Yes! The Cloud was first sold as the cheap, convenient solution for backing up data, syncing our devices, and running apps from anywhere.
-          Now though, the Cloud services are expensive, riddled with privacy issues, and constantly getting shutdown or made worse by the big companies who run them.
+          Now though, cloud services are expensive, riddled with privacy issues, and constantly getting shutdown or made worse by the big companies who run them.
       - text: >
-          It's time for something different.
+          It's time for something new.
           A growing community of engineers and developers have been building free and open-source (this is tech-speak for trustworthy) apps to replace the cloud services sold by Big Tech.
           All you need to use these apps is a system that will host them in your own personal "cloud". Home Cloud makes this easy!
     button:
@@ -49,8 +49,8 @@ features:
     image: images/feature/apps.svg
     paragraphs:
       - text: >
-          Home Cloud runs alternative versions of all the same apps your used to using day in and day out.
-          If you can think of an idea, there's almost certainly a version of it that is compatible with Home Cloud.
+          Home Cloud runs alternative versions of all the same apps you're using everyday.
+          If you can think of an app, there's almost certainly a version of it that is compatible with Home Cloud.
       - text: >
           Here's some examples of apps that Home Cloud currently runs or will run in the near future:
     checkItems:
