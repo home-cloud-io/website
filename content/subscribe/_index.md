@@ -1,3 +1,3 @@
 ---
-title: Subscribe for updates
+title: Got a question or a comment?
 ---

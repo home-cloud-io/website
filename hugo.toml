@@ -2,7 +2,7 @@
 baseURL = "https://home-cloud.io/"
 languageCode = "en-us"
 title = "Home Cloud"
-theme = "apsho"
+theme = "steady-bytes"
 
 # Navigation Bar
 [[menu.main]]
@@ -41,20 +41,27 @@ theme = "apsho"
     weight = 4
 
 # Footer Address
-[params.address]
-# address = ""
+[params.info]
+enableAddress = false
+address = ""
+enableEmail = true
 email = "hello@home-cloud.io"
-# phone = ""
+enablePhone = false
+phone = ""
 
 # Footer Social
 [params.social]
+enableFacebook = false
+facebook = "#"
+enableTwitter = false
+twitter = "#"
+enableGithub = true
 github = "https://github.com/home-cloud-io"
 
 [params]
 
 # Header
 logo = "images/site-logo-purple.svg"
-subscribeFormURL = "https://subscribe.home-cloud.io/subscription/form"
 
 # Footer
 footerTitle = "Keep up to date"

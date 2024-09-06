@@ -1,3 +1,3 @@
 ---
-title: Got a question or a comment?
+title: Contact Us
 ---

@@ -1,0 +1,8 @@
+---
+enable: true
+title: Subscribe for updates
+subTitle: We're still in the early phases of the Home Cloud project. Subscribe to our email list for updates on the project's progress.
+agreementText: By signing up I am giving permission to email me at this address about the Home Cloud project.
+# Designed for use with listmonk: https://listmonk.app/
+submitURL: "https://subscribe.home-cloud.io/subscription/form"
+listUUID: "d753522f-93a9-40c1-aeca-cf1d82f94746"
