@@ -19,7 +19,7 @@ theme = "steady-bytes"
     weight = 3
 [[menu.main]]
     name = "Updates"
-    url = "#blog"
+    url = "/blog"
     weight = 4
 
 # Footer Sitemap
