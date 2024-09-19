@@ -4,7 +4,9 @@ features:
   - name: feature1
     position: right
     title: The Cloud? At Home?
-    image: images/feature/industry-cloud.svg
+    image:
+      src: images/feature/industry-cloud.svg
+      alt: People working on cloud infrastructure
     paragraphs:
       - text: >
           Yes! The Cloud was first sold as the cheap, convenient solution for backing up data, syncing our devices, and running apps from anywhere.
@@ -20,7 +22,9 @@ features:
   - name: feature2
     position: left
     title: The Solution is Simple
-    image: images/feature/home-server.svg
+    image:
+      src: images/feature/home-server.svg
+      alt: Woman working on a laptop leaning against a small server
     paragraphs:
       - text: >
           Home Cloud solves the complexity problem of hosting your own services by packaging all you need into one device that is simple and intuitive to use.
@@ -34,7 +38,9 @@ features:
   - name: feature3
     position: right
     title: Who is Home Cloud for?
-    image: images/feature/questions.svg
+    image:
+      src: images/feature/questions.svg
+      alt: A smartphone with a cloud icon covered with dollar bills and a red cancel symbol
     paragraphs:
       - text: >
           Home Cloud is for everyone! If your answer is "yes" to any of these questions, Home Cloud could be the solution you've been waiting for!
@@ -46,7 +52,9 @@ features:
   - name: feature4
     position: left
     title: What can Home Cloud do?
-    image: images/feature/apps.svg
+    image:
+      src: images/feature/apps.svg
+      alt: A woman working at a desktop computer with a host of app icons floating around her head
     paragraphs:
       - text: >
           Home Cloud runs alternative versions of all the same apps you're using everyday.

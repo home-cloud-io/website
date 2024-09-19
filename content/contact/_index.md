@@ -1,3 +1,3 @@
 ---
-title: Contact Us
+title: Home Cloud | Contact Us
 ---

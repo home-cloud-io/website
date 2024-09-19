@@ -6,23 +6,30 @@ description: >
   From photos, to music, to recipes, everything runs on Home Cloud!
 images:
   - url: images/screenshots/immich.png
+    alt: A screenshot of the Immich mobile app
     text: >
       Immich is a photo and video storage app that fully replaces services like iCloud and Google Photos.
   - url: images/screenshots/home-assistant.png
+    alt: A screenshot of the Home Assistant mobile app
     text: >
       Home Assistant puts local control and privacy first by powering your smart home instead of Google or Alexa.
   - url: images/screenshots/tempo.png
+    alt: A screenshot of the Temp mobile app (Tempo is an Android app for the Navidrome music server)
     text: >
       Navidrome allows you to enjoy your music collection from anywhere all while storing your favorite tunes at home.
   - url: images/screenshots/mealie.png
+    alt: A screenshot of the Mealie mobile app
     text: >
       Mealie is a recipe manager and planner that helps you keep your family healthy and happy.
   - url: images/screenshots/jellyfin.png
+    alt: A screenshot of the Jellyfin mobile app
     text: >
       Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
   - url: images/screenshots/antenna-pod.png
+    alt: A screenshot of the Antenna Pod mobile app (Antenna Pod is an Android app that syncs with the PodFetch server)
     text: >
       PodFetch enables you to sync your podcast lists and status across all your devices.
   - url: images/screenshots/memos.png
+    alt: A screenshot of the MoeMemos mobile app
     text: >
       Memos is a privacy first note taking app that makes it easy to capture and share your greatest thoughts.

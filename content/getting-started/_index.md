@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Home Cloud | Getting Started
 ---
 
 ## Congratulations on your new Home Cloud device!
