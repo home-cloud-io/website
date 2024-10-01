@@ -14,11 +14,11 @@ Welcome to our first project update blog post! A month ago I published a [blog p
 
 ### Platform Updates
 
-At the beginning of the month, we delivered our first prototype to our very first beta tester. We received a bunch of excellent feedback for suggested improvements and bug reports. Most of the development efforts this month went into implementing changes to address that feedback and stabilize the platform before deliverying more prototypes for wider testing. Below is a list of the major changes we made over the past month:
+At the beginning of the month, we delivered our first prototype to our very first beta tester. We received a bunch of excellent feedback for suggested improvements and bug reports. Most of the development efforts this month went into implementing changes to address that feedback and stabilize the platform before delivering more prototypes for wider testing. Below is a list of the major changes we made over the past month:
 
 - Reworked the way Home Cloud advertises itself to devices on your network to address some bugs where sometimes Android and Windows devices couldn't access the **home-cloud.local** domain.
 - Added better error handling in the web app.
-- Implemented input validation in the web app for the onboarding flow.
+- Implemented input validation in the web app for the on-boarding flow.
 - Fixed some critical bugs with the auto-update system for apps, system services, and the operating system itself.
 - Added a settings page: [home-cloud.local/settings](http://home-cloud.local/settings)
 - Implemented an "installing" visual to the web app until an app finishes installation.
