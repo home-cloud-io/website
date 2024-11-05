@@ -60,7 +60,7 @@ github = "https://github.com/home-cloud-io"
 
 [params.analytics]
 plausibleDomain = "home-cloud.io"
-plausibleSrc = "https://plausible.home-cloud.io/js/script.js"
+plausibleSrc = "https://plausible.steady-bytes.com/js/script.js"
 
 [params]
 
