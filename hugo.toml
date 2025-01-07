@@ -70,7 +70,7 @@ logo = "images/site-logo-purple.svg"
 # Footer
 footerTitle = "Keep up to date"
 copyright1 = "All rights reserved"
-copyright2 = "Copyright ©  <a href=\"https://steady-bytes.io/\" target=\"_blank\">Steady Bytes </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://steady-bytes.com/\" target=\"_blank\">Steady Bytes </a> {year}"
 
 # Contact
 email = "hello@home-cloud.io"
