@@ -5,6 +5,8 @@ featureImage: images/logo.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
+description: >
+    We can't solve all the problems of the modern internet, but we can make a sizable impact in giving people ownership of their digital lives.
 ---
 
 ![the Home Cloud logo which is a stylized purple cloud with a white house shape imposed on it](/images/logo.png)
