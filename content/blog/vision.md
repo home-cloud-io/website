@@ -7,6 +7,8 @@ authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
 ---
 
+![the Home Cloud logo which is a stylized purple cloud with a white house shape imposed on it](/images/logo.png)
+
 ## Intro
 
 About six months ago I quit my job to work on Home Cloud full-time. It wasn't a sudden decision, my friend Andrew and I had been running prototypes of what ended up being Home Cloud for years and we talked for months about the possibility of turning it into something for the public benefit before I made the jump.
