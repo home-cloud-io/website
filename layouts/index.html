@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<html lang = "{{ .Site.LanguageCode }}">
+
+<a hidden rel="me" href="https://mastodon.world/@jgkawell">
+
+{{ partial "heroArea.html" . }}
+
+{{ partial "feature.html" . }}
+
+{{ partial "services.html" . }}
+
+{{ partial "screenshots.html" . }}
+
+{{ partial "faq.html" . }}
+
+{{ partial "video.html" . }}
+
+{{ partial "testimonial.html" . }}
+
+{{ partial "blogPost.html" . }}
+
+</html>
+
+{{ end }}
