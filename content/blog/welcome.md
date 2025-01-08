@@ -4,6 +4,7 @@ date: 2024-09-02
 featureImage: images/logo.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
+authorRef: jgkawell@mastodon.world
 ---
 
 ## My Story

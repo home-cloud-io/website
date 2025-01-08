@@ -4,6 +4,7 @@ date: 2024-11-05
 featureImage: images/logo.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
+authorRef: jgkawell@mastodon.world
 ---
 
 ## Intro

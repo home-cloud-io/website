@@ -62,6 +62,10 @@ github = "https://github.com/home-cloud-io"
 plausibleDomain = "home-cloud.io"
 plausibleSrc = "https://plausible.steady-bytes.com/js/script.js"
 
+# Mastodon
+[params.mastodon]
+accounts = [ "https://mastodon.world/@jgkawell" ]
+
 [params]
 
 # Header
