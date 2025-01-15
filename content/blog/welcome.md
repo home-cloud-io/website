@@ -17,7 +17,7 @@ As I've shared my journey with friends and family I have always heard the same r
 
 I've always wanted more people to be able to enjoy the benefits of self-hosting, but until recently I just considered it out of reach for most. The work required is much more than the average person is willing to do and because it's so technical it's out of reach for many people even if they wanted to.
 
-![blog image](/images/blog/shapes.svg)
+![abstract purple shapes and black lines](/images/blog/shapes.svg)
 
 ## The Idea
 
@@ -25,7 +25,7 @@ I hadn't really considered the idea of creating a solution to this problem until
 
 Andrew and I were immediately excited about this new idea. We had been working together on [a framework](https://github.com/steady-bytes/draft) for easily creating powerful, scaleable, and stable applications for years now and we knew this was a great opportunity to finally put it to the test.
 
-![blog image](/images/logo.png)
+![the Home Cloud logo which is a stylized purple cloud with a white house shape imposed on it](/images/logo.png)
 
 ## Home Cloud
 
@@ -44,7 +44,7 @@ We've been hard at work for months to get an initial release of Home Cloud out t
 
 If you would like to test out a Home Cloud prototype for yourself please [reach out](/contact)! If you've got technical experience and would like to run Home Cloud on your own hardware, check out [our GitHub](https://github.com/home-cloud-io) where we have open-sourced all the code for Home Cloud. Feel free to open up issues or pull requests for any bugfixes or improvements you'd like to see.
 
-![blog image](/images/blog/clouds.svg)
+![stylized graphic showing people on clouds using laptops connected by networking lines](/images/blog/clouds.svg)
 
 ## The Road Ahead
 

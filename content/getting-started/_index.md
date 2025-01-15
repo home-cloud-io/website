@@ -12,15 +12,15 @@ First, go ahead and unbox your device and make sure you have everything included
 
 1. **The Home Cloud device itself**
 
-![blog image](/images/getting-started/device.jpg)
+![off angle picture of black mini-pc](/images/getting-started/device.jpg)
 
 2. **The power adapter for the device**
 
-![blog image](/images/getting-started/power-adapter.jpg)
+![a generic power plug](/images/getting-started/power-adapter.jpg)
 
 3. **An ethernet cable which will connect the Home Cloud device to your router**
 
-![blog image](/images/getting-started/ethernet-cable.jpg)
+![a coiled, black ethernet cable](/images/getting-started/ethernet-cable.jpg)
 
 Got everything? If you're missing anything [please reach out to us](/contact) and we'll get it straightened out.
 
