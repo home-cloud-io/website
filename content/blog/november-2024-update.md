@@ -1,11 +1,15 @@
 ---
-title: "November 2024 Update"
+title: 'November 2024 Update'
 date: 2024-12-02
-featureImage: images/logo.png
+featureImage: images/undraw/undraw_design-process.svg
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
+description: >
+  A complete overhaul of the Home Cloud dashboard plus upload improvements!
 ---
+
+<img src="/images/undraw/undraw_design-process.svg" style="width: 75%;" />
 
 ## Intro
 
@@ -20,6 +24,7 @@ The biggest change this month was a complete reworking of the Admin Dashboard. F
 You can see the before and after comparison below:
 
 <!-- PICTURES HERE -->
+
 OLD
 ![a screenshot of the old Home Cloud admin dashboard](/images/blog/old-dashboard.png)
 NEW
@@ -43,4 +48,4 @@ While our next project update will be in January, I do have at least one more bl
 
 Until the next one,
 
-*Jack*
+_Jack_
