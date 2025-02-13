@@ -2,3 +2,4 @@
 enable: true
 title: Latest Updates
 blogButtonText: See all posts
+countToShow: 5

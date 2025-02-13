@@ -1,11 +1,15 @@
 ---
-title: "January 2025 Update"
+title: 'January 2025 Update'
 date: 2025-02-12
-featureImage: images/logo.png
+featureImage: images/undraw/undraw_blogging.svg
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
+description: >
+  This update includes a bunch of new dashboard features like manual updates and logging!
 ---
+
+<img src="/images/undraw/undraw_blogging.svg" style="width: 75%;" />
 
 ## Intro
 
@@ -45,4 +49,4 @@ That's it for this month! Be sure to [subscribe](/subscribe) for future updates 
 
 Until the next one,
 
-*Jack*
+_Jack_

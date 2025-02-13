@@ -1,11 +1,15 @@
 ---
-title: "September 2024 Update"
+title: 'September 2024 Update'
 date: 2024-10-01
-featureImage: images/logo.png
+featureImage: images/undraw/undraw_app-installation.svg
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
+description: >
+  Platform updates, new apps, and a brand new documentation website!
 ---
+
+<img src="/images/undraw/undraw_app-installation.svg" style="width: 50%;" />
 
 ## Intro
 
@@ -60,4 +64,4 @@ We're grateful for everyone who's joining us on this journey and can't wait to s
 
 Until the next one,
 
-*Jack*
+_Jack_

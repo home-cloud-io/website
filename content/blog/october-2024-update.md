@@ -1,11 +1,15 @@
 ---
-title: "October 2024 Update"
+title: 'October 2024 Update'
 date: 2024-11-05
-featureImage: images/logo.png
+featureImage: images/undraw/undraw_file-sync.svg
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
+description: >
+  File uploads come to Home Cloud! Also, SSH access has been added for our advanced users!
 ---
+
+<img src="/images/undraw/undraw_file-sync.svg" style="width: 75%;" />
 
 ## Intro
 
@@ -51,4 +55,4 @@ We're grateful for everyone who's joining us on this journey and can't wait to s
 
 Until the next one,
 
-*Jack*
+_Jack_
