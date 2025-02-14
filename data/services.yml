@@ -1,7 +1,7 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Finally the Cloud the way it should be
+title: the Cloud the way it should be
 services:
   - icon: ti-lock
     title: Secure
