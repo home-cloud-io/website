@@ -2,6 +2,7 @@
 title: 'September 2024 Update'
 date: 2024-10-01
 featureImage: images/undraw/undraw_app-installation.svg
+ogImage: images/undraw/undraw_app-installation.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world

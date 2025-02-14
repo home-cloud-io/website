@@ -2,6 +2,7 @@
 title: 'Welcome to Home Cloud!'
 date: 2024-09-02
 featureImage: images/undraw/undraw_happy-announcement.svg
+ogImage: images/undraw/undraw_happy-announcement.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world

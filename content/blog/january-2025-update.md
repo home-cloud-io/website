@@ -2,6 +2,7 @@
 title: 'January 2025 Update'
 date: 2025-02-12
 featureImage: images/undraw/undraw_blogging.svg
+ogImage: images/undraw/undraw_blogging.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world

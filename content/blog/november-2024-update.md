@@ -2,6 +2,7 @@
 title: 'November 2024 Update'
 date: 2024-12-02
 featureImage: images/undraw/undraw_design-process.svg
+ogImage: images/undraw/undraw_design-process.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world

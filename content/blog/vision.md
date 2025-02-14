@@ -2,6 +2,7 @@
 title: 'The Vision'
 date: 2024-12-30
 featureImage: images/undraw/undraw_adventure-map.svg
+ogImage: images/undraw/undraw_adventure-map.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world

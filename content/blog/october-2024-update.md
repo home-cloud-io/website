@@ -2,6 +2,7 @@
 title: 'October 2024 Update'
 date: 2024-11-05
 featureImage: images/undraw/undraw_file-sync.svg
+ogImage: images/undraw/undraw_file-sync.png
 author: Jack Kawell
 authorThumb: images/authors/jack.jpg
 authorRef: jgkawell@mastodon.world
