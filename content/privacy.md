@@ -1,5 +1,5 @@
 ---
-title: Home Cloud | Privacy Policy
+title: Privacy Policy
 ---
 
 ### Introduction

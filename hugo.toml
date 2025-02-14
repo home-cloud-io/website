@@ -73,7 +73,7 @@ accounts = [ "https://mastodon.world/@jgkawell" ]
 [params]
 
 # Header
-logo = "images/site-logo-purple.svg"
+logo = "images/logo.png"
 
 # Footer
 footerTitle = "Keep up to date"
