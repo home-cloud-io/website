@@ -70,15 +70,18 @@ plausibleSrc = "https://plausible.steady-bytes.com/js/script.js"
 [params.mastodon]
 accounts = [ "https://mastodon.world/@jgkawell" ]
 
+# Footer
+[params.footer]
+title = "Keep up to date"
+copyright1 = "All rights reserved"
+copyright2 = "Copyright ©  <a href=\"https://steady-bytes.com/\" target=\"_blank\">Steady Bytes </a> {year}"
+extra = "Illustration credit goes to <a href=\"https://undraw.co/\" target=\"_blank\">Katerina Limpitsouni </a>"
+
 [params]
 
 # Header
 logo = "images/logo.png"
 
-# Footer
-footerTitle = "Keep up to date"
-copyright1 = "All rights reserved"
-copyright2 = "Copyright ©  <a href=\"https://steady-bytes.com/\" target=\"_blank\">Steady Bytes </a> {year}"
 
 # Contact
 email = "hello@home-cloud.io"
