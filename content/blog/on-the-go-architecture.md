@@ -1,6 +1,6 @@
 ---
 title: 'The Architecture of On the Go'
-date: 2025-05-04
+date: 2025-05-05
 featureImage: images/undraw/undraw_private-data.svg
 ogImage: images/undraw/undraw_private-data.png
 author: Jack Kawell
